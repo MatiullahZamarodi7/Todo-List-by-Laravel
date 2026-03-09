@@ -1,0 +1,24 @@
+[
+  {
+    "file": "c:\\xampp\\htdocs\\todo-app-laravel\\routes\\web.php",
+    "message": "')' expected.",
+    "line": 5,
+    "timestamp": "2026-02-14T03:27:57.529Z",
+    "solution": "",
+    "keep": true,
+    "resolved": false,
+    "tags": [],
+    "uniqueId": "mllrap211u5ysyr2xsj"
+  },
+  {
+    "file": "c:\\xampp\\htdocs\\todo-app-laravel\\routes\\web.php",
+    "message": "';' expected.",
+    "line": 5,
+    "timestamp": "2026-02-14T03:27:59.696Z",
+    "solution": "",
+    "keep": true,
+    "resolved": false,
+    "tags": [],
+    "uniqueId": "mllraqq8y019yczs54"
+  }
+]
