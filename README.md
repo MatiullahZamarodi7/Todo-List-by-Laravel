@@ -10,7 +10,11 @@
 
 ---
 🚀 **Live Demo:**  
-[View Project](todo img.png)
+# Todo List Project
+
+This is my Todo List project.
+
+![Project Screenshot](todo-img.png)
 
 ---
 
